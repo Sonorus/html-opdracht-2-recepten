@@ -1,0 +1,37 @@
+body{
+	background-image:url("Achtergrond 3.jpg");
+	background-position: center;
+}
+
+p{ 
+  text-align: center;
+
+}
+
+h1{
+   text-align: center;
+
+}
+
+h2{
+   text-align: center;
+   width: 	
+}
+
+.tomatensoep{
+			width: 800px;
+			margin: 0 auto;
+			font-family: arial
+}
+
+.pannekoeken{
+			 width: 600px;
+			 margin: 0 auto;
+			 font-family: arial
+}			
+
+.bananasplit{
+			  width: 500px;
+			  margin: 0 auto;
+			  font-family: arial
+}
